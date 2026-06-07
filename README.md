@@ -17,6 +17,14 @@ Building scalable Shopify applications, UGC widgets, and modern web experiences.
 ## 🛠 Tech Stack
 
 React • Next.js • JavaScript • TypeScript • Redux Toolkit • GraphQL • Tailwind CSS • Git • GitHub
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux" />
+</p>
 
 ## 🌱 Currently Learning
 
