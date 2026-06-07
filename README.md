@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Raghav 👋
 
-<!--
-**Raghav4nov/Raghav4nov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | React | Next.js | Shopify Apps
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend Developer with 2+ years of experience
+- Building Shopify UGC & Review Widgets
+- Working with React, Next.js, GraphQL and Tailwind CSS
+- Passionate about scalable frontend architecture
+- Continuously learning and improving
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- Next.js
+- JavaScript
+- TypeScript
+- Redux Toolkit
+- Tailwind CSS
+
+### Backend & APIs
+- GraphQL
+- REST APIs
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+## 💼 Current Focus
+
+- Shopify App Development
+- UGC Widget Systems
+- Analytics Dashboards
+- Performance Optimization
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghav4nov&show_icons=true)
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Raghav4nov
+
+---
+⭐ Always learning, building and improving.
