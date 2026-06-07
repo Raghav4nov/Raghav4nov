@@ -32,6 +32,13 @@ React • Next.js • JavaScript • TypeScript • Redux Toolkit • GraphQL �
 - System Design
 - AI-powered applications
 
+
+## 📊 GitHub Stats
+
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghav4nov&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav4nov&layout=compact)
+
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Raghav4nov
